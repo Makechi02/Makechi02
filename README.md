@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makechi02.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning web development at the odin project.
+- 🌱 I’m currently learning web development at The Odin Project.
 - 💞️ I’m looking to collaborate on matters concerning computer science.
 - 📫 How to reach me: Text me on whatsapp at 0716862131 or on twitter @OEMakbe
 
