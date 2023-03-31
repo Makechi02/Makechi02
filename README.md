@@ -1,4 +1,5 @@
 # Makechi Eric
+<!--<h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">Makechi Eric</h1> -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Mono&weight=600&size=22&pause=1000&color=2255FF&width=440&lines=Front-End+Developer;Creative+Freelancer;Java+Programmer;Always+Learning+New+Tech)](https://git.io/typing-svg)
