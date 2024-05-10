@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Mono&weight=600&size=22&pause=1000&color=2255FF&width=440&lines=Front-End+Developer;Creative+Freelancer;Java+Programmer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
-I'm a front-end developer with rich experience in website bilding and design. I build projects from the ground up, from planning and designing all the way to solving real-life problems with code. Also, I am good at Java programming.
+I'm a front-end developer with rich experience in website building and design. I build projects from the ground up, from planning and designing all the way to solving real-life problems with code. Also, I am good at Java programming.
 
 ---
 
